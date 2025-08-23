@@ -5,3 +5,9 @@
 __pycache__/
 *.py[cod]
 venv/
+
+# NodeJS Backend
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
